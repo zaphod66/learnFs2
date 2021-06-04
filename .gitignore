@@ -2,6 +2,7 @@
 dist
 .cache
 /.idea
+/.bsp
 /*.iml
 /out
 /.idea_modules
